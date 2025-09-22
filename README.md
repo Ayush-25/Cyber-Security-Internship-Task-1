@@ -35,7 +35,8 @@ sudo nmap -sS 192.168.0.0/24 -oX results.xml
 # Convert XML results to HTML for easier visualization
 xsltproc results.xml -o results.html
 
-<img width="661" height="573" alt="image" src="https://github.com/user-attachments/assets/0cffd88d-df05-4bda-81e1-99d164bfac5b" />
+<img width="661" height="573" alt="Screenshot 2025-09-22 113143" src="https://github.com/user-attachments/assets/01f703ae-cdb2-4b1a-930e-1c9e4e4e4304" />
+
 
 
 
