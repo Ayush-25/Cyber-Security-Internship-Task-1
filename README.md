@@ -59,8 +59,6 @@ IP Address       | Open Ports         | Services
 ## Files Included
 - scan_results.txt → main scan output
 - findings.txt → IP + open ports summary
-- results.xml → optional XML output
-- results.html → optional HTML output
 - Screenshots of commands as proof of execution
 
 
